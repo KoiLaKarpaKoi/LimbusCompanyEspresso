@@ -12,7 +12,7 @@
     },
     {
       "id": 1010301,
-      "name": "Posato",
+      "name": "Compostezza",
       "desc": "Alla vittoria di uno Scontro, ottiene +1 Conteggio [Breath]."
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "id": 1020201,
-      "name": "Autosufficente",
+      "name": "Carica Autonoma",
       "desc": "Ottiene +1 Conteggio [Charge] dopo un attacco."
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "id": 1030101,
-      "name": "Giusta Punizione",
+      "name": "Giusta Rappresaglia",
       "desc": "Le Abilità infliggono +10% danni negli Scontri vinti."
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "id": 1050201,
-      "name": "Stoico",
+      "name": "Stoico Come una Montagna",
       "desc": "Quando viene attaccato, infligge 1 [Combustion] ad un nemico casuale.\n(Fino a 4 volte)"
     },
     {
       "id": 1050301,
-      "name": "Spirito Resistente",
+      "name": "Spirito Resiliente",
       "desc": "Quando viene attaccato, ottiene +1 Conteggio [Charge].\n(Fino a 6 volte)"
     },
     {
       "id": 1060101,
-      "name": "Divertimento",
+      "name": "Intrattenimento",
       "desc": "Cura di 6 PS il turno successivo."
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "id": 1070101,
-      "name": "RiSentimento",
+      "name": "Risentimento",
       "desc": "Infligge +10% danni ai bersagli con PV Max più alti."
     },
     {
@@ -107,17 +107,17 @@
     },
     {
       "id": 1080101,
-      "name": "Lotta Disperata",
+      "name": "Tentativo Disperato",
       "desc": "A meno di 25% PV, ottiene +1 Potere Scontro in uno Scontro."
     },
     {
       "id": 1080201,
-      "name": "Concentrazione Di Onde Cerebrali",
+      "name": "Onde Cerebrali Concentrate",
       "desc": "All'inizio della fase di combattimento, perde 15 PS.\nOttiene (Rison. Tristezza / 3) [Enhancement] il turno successivo."
     },
     {
       "id": 1080301,
-      "name": "A Filo Della Morte",
+      "name": "Sul Filo Della Morte",
       "desc": "A meno di 50% PV, ottiene 1 [Breath] aggiuntivo dalle Abilità."
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "id": 1090201,
-      "name": "Lama Delle Nuvole Nere",
+      "name": "Lama Della Nuvola Nera",
       "desc": "A 5+ [Breath], le Abilità di contrattacco usano l'Abilità 3."
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "id": 1100101,
-      "name": "Decisione",
+      "name": "Coraggio",
       "desc": "Quando un alleato viene sconfitto, ottiene 1 [Enhancement] il turno successivo."
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "id": 1100301,
-      "name": "Il Tuo Scudo",
+      "name": "Il Vostro Scudo",
       "desc": "All'inizio della fase di combattimento, applica 2 [Endurance] e 1 [Protection] agli alleati adiacenti a questa unità sul Pannello di Controllo."
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "id": 1110301,
-      "name": "Aiuto Morale",
+      "name": "Alzare il Morale",
       "desc": "il turno successivo, applica 2 [Agility] a sé e agli alleati che sono adiacenti a quest'unità sul Pannello di Controllo questo turno."
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "id": 1120201,
-      "name": "Combustione",
+      "name": "Accensione",
       "desc": "La 3a Moneta di un'Abilità e le seguenti infligge 1 [Combustion] sul colpo."
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "id": 1010321,
-      "name": "Illustrare",
+      "name": "Conferire",
       "desc": "1 alleato con i PS più alti ottiene +1 Conteggio [Breath] dalle Abilità."
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "id": 1040121,
-      "name": "Frenesia",
+      "name": "Trambusto",
       "desc": "1 alleato con i PV Max più bassi infligge e subisce +20% danni."
     },
     {
@@ -247,7 +247,7 @@
     },
     {
       "id": 1040321,
-      "name": "Pura Forza",
+      "name": "Muscoli all'Opera",
       "desc": "1 alleato con la Velocità più alta infligge +1 [Laceration]."
     },
     {
@@ -322,13 +322,13 @@
     },
     {
       "id": 1090221,
-      "name": "Tecnica della Nuvola Nera",
+      "name": "Scherma della Nuvola Nera",
       "desc": "1 alleato con la Velocità più bassa infligge +10% danni Taglienti."
     },
     {
       "id": 1090321,
       "name": "Breccia",
-      "desc": "1 alleato con più PV infligge +20% danni a nemici che used defense skills questo turno."
+      "desc": "1 alleato con più PV infligge +20% danni a nemici che hanno usato Abilità Difensive questo turno."
     },
     {
       "id": 1100121,
@@ -497,7 +497,7 @@
     },
     {
       "id": 1110421,
-      "name": "Passa Informazioni",
+      "name": "Comunicare Informazioni",
       "desc": "1 alleato con la Velocità più alta infligge +10% danni quando attacca il bersaglio con un tipo di danno a cui è “Debole” o “Fatalee”."
     },
     {
@@ -537,7 +537,7 @@
     },
     {
       "id": 1100521,
-      "name": "Cornering",
+      "name": "Mettere all'Angolo",
       "desc": "1 alleato con i PS più bassi infligge +10% danni Contundenti.\nSe quell'alleato è sotto 0 PS, aumenta ancora i suoi danni Contundenti per quanto più bassi sono i suoi PS. (Max 10%)"
     },
     {
@@ -547,12 +547,12 @@
     },
     {
       "id": 1030421,
-      "name": "Martello Zelota",
+      "name": "Martello Del Fanatismo",
       "desc": "1 alleato con [AssemblePersonality] con i PS più bassi infligge +10% danni."
     },
     {
       "id": 1090501,
-      "name": "Uscirò In Anticipo~",
+      "name": "Usciamo in Anticipo, Brindiamo~",
       "desc": "Ad uno [VibrationExplosion], spendi 3 Conteggio [Charge] per far salire la Soglia di Vacillamento del +40% in più.\nDopo aver attivato uno [VibrationExplosion], ottiene 1 [Agility] e 1 [HitDamageUp] il turno successivo."
     },
     {
@@ -567,7 +567,7 @@
     },
     {
       "id": 1050521,
-      "name": "Congedo Suggerito",
+      "name": "Congedo Su Consiglio",
       "desc": "1 alleato con la Velocità più alta abbassa il Potere Scontro dei nemici con [Vibration] di 1."
     },
     {
@@ -612,7 +612,7 @@
     },
     {
       "id": 1060501,
-      "name": "Attiva Ampolla Rigenerativa",
+      "name": "Attivazione Ampolla Rigenerativa",
       "desc": "Quando subisce un colpo, se ha meno di 20% PV, si cura di 90% dei PV Max e ottiene 1 [KCorpSerum].\nDopo l'attivazione, ottiene 1 [Vulnerable] ogni turno per il resto del combattimento. (Una volta per Incontro)"
     },
     {
@@ -677,7 +677,7 @@
     },
     {
       "id": 1080721,
-      "name": "Cacciagranchi",
+      "name": "Perforagranchi",
       "desc": "Quando un alleato con i PV Max più bassi lancia Testa, infligge +1 Conteggio [Sinking] quando infligge Conteggio [Vibration] sul bersaglio con gli effetti delle Monete."
     },
     {
@@ -692,12 +692,12 @@
     },
     {
       "id": 1120601,
-      "name": "Scudo in Combattimento",
+      "name": "Scudo da Combattimento",
       "desc": "Se bersagliato da 2 o più attacchi all'inizio della fase di combattimento, ottiene 2 [DefenseUp].\nSe a 50% o meno PV all'inizio della fase di combattimento, ottiene 3 [DefenseUp]."
     },
     {
       "id": 1120621,
-      "name": "Il Tuo Scudo",
+      "name": "Il Vostro Scudo",
       "desc": "Se 1 alleato con i PV Max più alti è bersagliato da 2 o più attacchi, ottiene 3 [DefenseUp]"
     },
     {
@@ -717,7 +717,7 @@
     },
     {
       "id": 1040501,
-      "name": "Lama Demonica Dimensionale",
+      "name": "Lama Dimensionale Demoniaca",
       "desc": "Sconfiggendo un nemico, ottiene +2 Conteggio [Charge] (3 volte per turno)"
     },
     {
@@ -779,7 +779,7 @@
     },
     {
       "id": 1010501,
-      "name": "In Certe Situazioni...",
+      "name": "In Tempi Come Questi...",
       "desc": "Dopo aver attivato [VibrationExplosion] su un nemico, infligge 1 [DefenseDown] per ogni aumento della Soglia di Vacillamento di 4 (Max 5 per 1 nemico ogni turno)"
     },
     {
@@ -794,7 +794,7 @@
     },
     {
       "id": 1110521,
-      "name": "Severa ma Giusta",
+      "name": "Carota e Bastone",
       "desc": "1 alleato con più Conteggio [Vibration] ottiene +1 Conteggio [Vibration] dagli effetti delle Abilità"
     },
     {
@@ -869,12 +869,12 @@
     },
     {
       "id": 1040602,
-      "name": "Una P.F.",
+      "name": "Una P.C.",
       "desc": "<style=\"highlight\">- Sempre Attiva : Inizia l'incontro con 7 [Bullet]</style>\n- Se questa unità ha 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> A Fine Turno, cura 8 PS."
     },
     {
       "id": 1040611,
-      "name": "Una P.F.",
+      "name": "Una P.C.",
       "desc": "- Sempre Attiva : Inizia l'incontro con 7 [Bullet]\n- Se questa unità ha 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u> A Fine Turno, cura 8 PS.\n<style=\"highlight\">- Se questa unità ha già PS massimi quando attiva questa condizione, ottiene 1 [Breath] il turno successivo</style>"
     },
     {
@@ -973,12 +973,12 @@
     },
     {
       "id": 1100801,
-      "name": "Sete di Sangue Soppressa",
+      "name": "Sete di Sangue Sopita",
       "desc": "A Fine Turno: Ottiene +2 Velocità Max il turno successivo per ogni 5 Conteggio [Breath] (Max 6)"
     },
     {
       "id": 1100811,
-      "name": "Sete di Sangue Soppressa",
+      "name": "Sete di Sangue Sopita",
       "desc": "A Fine Turno: Ottiene +2 Velocità Max il turno successivo per ogni 5 Conteggio [Breath] (Max 6)\nInizio Combattimento: Se la Velocità di tutti gli alleati è maggiore della Velocità dei nemici, ottiene 1 [PenetrateDamageUp]"
     },
     {
@@ -1088,17 +1088,17 @@
     },
     {
       "id": 1050801,
-      "name": "Spada della Patria",
+      "name": "Scherma della Patria",
       "desc": "In questo Incontro, quando questa unità subisce danni che portano i suoi PV a 0, ignora quei danni; infine, i PV di questa unità non possono scendere sotto 1 per quel turno. (Una volta per Incontro)\n\nQuando questa unità ottiene Potenza/Conteggio [Breath] con gli effetti delle sue Abilità o Monete: dà 1 Potenza [Breath] e +1 Conteggio [Breath] a 2 altri alleati degli Discendenti della Spada senza [Breath] o con meno [Breath]\n- Se ci sono 6 o più alleati Discendenti della Spada che partecipano in questo Incontro, invece dà 2 Potenza [Breath] e +2 Conteggio [Breath]"
     },
     {
       "id": 1050811,
-      "name": "Spada della Patria",
+      "name": "Scherma della Patria",
       "desc": "In questo Incontro, quando questa unità subisce danni che portano i suoi PV a 0, ignora quei danni; infine, i PV di questa unità non possono scendere sotto 1 per quel turno. (Una volta per Incontro)\n\nQuando questa unità ottiene Potenza/Conteggio [Breath] con gli effetti delle sue Abilità o Monete: dà 1 Potenza [Breath] e +1 Conteggio [Breath] a 2 altri alleati degli Discendenti della Spada senza [Breath] o con meno [Breath]\n- Se ci sono 6 o più alleati Discendenti della Spada che partecipano in questo Incontro, invece dà 2 Potenza [Breath] e +2 Conteggio [Breath]\n\nInizio Combattimento: Applica il buff [SwordPlayOfTheHomeland] a tutti gli altri alleati Discendenti della Spada"
     },
     {
       "id": 1050821,
-      "name": "Spada della Patria",
+      "name": "Scherma della Patria",
       "desc": "Inizio Combattimento: 1 alleato con più [Breath] infligge +15% danni con un Colpo Critico con Abilità Taglienti"
     },
     {
@@ -1211,13 +1211,13 @@
     },
     {
       "id": 1070821,
-      "name": "Verifica di Obblighi Rispettati",
+      "name": "Verifica di Adempimento Degli Obblighi",
       "desc": "A 1 alleato con la Velocità più alta: Potere Scontro +1 alle Abilità che applicano Potenza [Vibration] o Conteggio",
       "summary": ""
     },
     {
       "id": 1050901,
-      "name": "Guadagna Tempo",
+      "name": "Guadagnare Tempo",
       "desc": "Potere Scontro +1 in uno Scontro contro i bersagli con [Burst]",
       "summary": "Potere Scontro +1 in uno Scontro contro i bersagli con [Burst]"
     },
@@ -1265,13 +1265,13 @@
     },
     {
       "id": 1020901,
-      "name": "Risposta da Maggiordomo",
+      "name": "Risposta in Stile Maggiordomo",
       "desc": "- A Scontro Vinto: infligge 1 [Sinking] sul bersaglio (3 volte per turno)",
       "summary": "A Scontro Vinto: infligge 1 [Sinking]"
     },
     {
       "id": 1020911,
-      "name": "Risposta da Maggiordomo",
+      "name": "Risposta in Stile Maggiordomo",
       "desc": "- A Scontro Vinto: infligge 1 [Sinking] sul bersaglio (3 volte per turno)\n- Se il bersaglio ha [EchoOfMansion], invece infligge 3 [Sinking]",
       "summary": "A Scontro Vinto: infligge 1 [Sinking]"
     },
@@ -1355,25 +1355,25 @@
     },
     {
       "id": 1040801,
-      "name": "Pulizia Casalinga",
+      "name": "Pulizie di Casa",
       "desc": "Sul Colpo contro i bersagli con [MarkOfButler], ottiene 1 [Agility] il turno successivo (3 volte per turno)\nSul Colpo Critico contro i bersagli con [MarkOfButler], togli [MarkOfButler] dal bersaglio; infine, se la Velocità di questa unità è maggiore del bersaglio, infligge +5% Danni sul Colpo Critico per ogni 1 differenza di Velocità (max 30%)",
       "summary": ""
     },
     {
       "id": 1040811,
-      "name": "Pulizia Casalinga",
+      "name": "Pulizie di Casa",
       "desc": "Sul Colpo contro i bersagli con [MarkOfButler], ottiene +1 Conteggio [Breath], e ottiene 1 [Agility] il turno successivo (3 volte per turno)\nSul Colpo Critico contro i bersagli con [MarkOfButler], togli [MarkOfButler] dal bersaglio; infine, se la Velocità di questa unità è maggiore del bersaglio, infligge +10% Danni sul Colpo Critico per ogni 1 differenza di Velocità (max 60%)",
       "summary": ""
     },
     {
       "id": 1040821,
-      "name": "Ordine di Pulizia",
+      "name": "Comando di Pulizia",
       "desc": "Quando l'alleato schierato per ultimo vince uno Scontro, ottiene +1 Conteggio [Breath] (3 volte per turno)",
       "summary": ""
     },
     {
       "id": 1040831,
-      "name": "Ordine di Pulizia",
+      "name": "Comando di Pulizia",
       "desc": "Quando l'alleato schierato per ultimo vince uno Scontro, ottiene +1 Conteggio [Breath] (3 volte per turno), e ottiene 1 [Agility] il turno successivo (1 volta per turno)",
       "summary": ""
     },
@@ -1445,7 +1445,7 @@
     },
     {
       "id": 1110901,
-      "name": "Moltitudine di Punti",
+      "name": "Moltitudine di Punt",
       "desc": "Inizio Combattimento: Infligge 2 Potenza di 1 di questi effetti su 1 nemico con meno tipi di effetti negativi: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Effetto scelto casualmente.\n(Negli Incontri Mirati, una Parte)",
       "summary": "Inizio Combattimento: Infligge 2 Potenza di un effetto casuale su un nemico"
     },
@@ -1469,12 +1469,12 @@
     },
     {
       "id": 1010902,
-      "name": "Puntinista Sanguinoso",
+      "name": "Puntinismo Sanguinoso",
       "desc": "Questa Identità Conta solo come un' 'Identità che infligge [Laceration]'. Le Abilità di questa Identità che infliggono casualmente [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] non Contano come Abilità che infliggono quei rispettivi Tratti."
     },
     {
       "id": 1110902,
-      "name": "Puntinista Sanguinoso",
+      "name": "Puntinismo Sanguinoso",
       "desc": "Questa Identità Conta solo come un' 'Identità che infligge [Laceration]'. Le Abilità di questa Identità che infliggono casualmente [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] non Contano come Abilità che infliggono quei rispettivi Tratti."
     },
     {
@@ -1489,7 +1489,7 @@
     },
     {
       "id": 1060901,
-      "name": "Bastone da Combattimento Vibro-saldato Adattabile (Invenzione Non Autorizzata)",
+      "name": "Bastone Adattabile da Combattimento Vibro-saldato  (Invenzione Non Autorizzata)",
       "desc": "A Fine Turno: ottiene [AttackDmgUp] il turno successivo quanto il numero di volte che questa unità ha causato [VibrationExplosion] questo turno (max 3)"
     },
     {
@@ -1504,7 +1504,7 @@
     },
     {
       "id": 1030921,
-      "name": "T Corp. Campo Distorgi Fisica",
+      "name": "Campo Distorgi Fisica di T Corp.",
       "desc": "Quando 1 alleato con la Velocità più bassa subisce danni da nemici con [Vibration], subisce -10% danni"
     },
     {
@@ -1852,7 +1852,7 @@
     },
     {
       "id": 1031003,
-      "name": "Sostenitrice dei Parenti di Sangue",
+      "name": "Portatrice della Stirpe di Sangue",
       "desc": "In questo Incontro, se un'altra unità di <La Manchalan​d> viene sconfitta:\n- Ottiene 1 [BloodArmorPersonalityFirst] in più quando ottiene [BloodArmorPersonalityFirst] con le proprie Abilità Attacco Base\n- Quando 3+ altre unità di <La Manchalan​d> vengono sconfitte: ottiene 3 [BloodArmorPersonalityFirst] in più; A Inizio Turno, ottiene 1 [SadLamanchaland]"
     },
     {
@@ -2410,18 +2410,18 @@
     },
     {
       "id": 1071301,
-      "name": "Defence-Oriented Charge",
-      "desc": "- Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n- Turn Start: Gain [DefenseUp] equal to [Charge] Potency on self (max 6)"
+      "name": "Carica Difesa-Orientata",
+      "desc": "- Ottiene 1 [Charge] ogni volta che questa unità consuma 10 conteggio di [Charge] cumulativi in qusto Incontro\n- Inizio Turno: Ottieni [DefenseUp] in quantità uguale alla potenza [Charge] posseduta (max 6)"
     },
     {
       "id": 1071311,
-      "name": "Congestion Cleaning Armour",
-      "desc": "- Combat Start: If this unit has less than 50% HP, gain Shield equal to ([Charge] Potency x 5) (max 25)\n- Immediately before getting hit, gain Shield equal to ([Charge] Potency on self) (max 5, 3 times per turn)\n- If this unit gains [Charge] Count past the Max [Charge] Count Cap by using a Skill, the Skill deals +3% damage for every [Charge] Count that exceeds the Max [Charge] Count Cap (max 15%)"
+      "name": "Armatura Puisci Ingorgo",
+      "desc": "- Inizio Combattimento: Se questa unità ha meno del 50% dei PV, Ottieni Scudo pari a (Potenza [Charge] x 5) (max 25)\n- Subito prima di essere colpito, ottieni Scudo pari a (potenza [Charge] posseduta) (max 5, 3 volte a turno)\n- Se questa unitò ottiene Conteggio [Charge] che oltrepasa il limite massimo di Conteggio [Charge] usando un Abilità, l'Abilità infiggera +3% danni in più per ogni Cobteggio [Charge] che eccede il limite massimo di Conteggio [Charge] (max 15%)"
     },
     {
       "id": 1071321,
-      "name": "One day I'll wear me Armour for Cancelled Trains",
-      "desc": "- Combat Start: If the unit with the earliest Deployment Order gains [Charge] Count past the Max [Charge] Count Cap by using a Skill, the unit gains 1 [ChargeForceField] next turn for every [Charge] Count that exceeds the Max [Charge] Count Cap (max 3, including E.G.O Skills)"
+      "name": "Un Giorno Indosserò un Armatura per Treni Cancellati",
+      "desc": "- Inizio Combattimento: Se l'unità con il più basso ordine di scheramento ottiene Contegio [Charge] oltre il limite massimo di Conteggio [Charge] usando un Abilitò, l'Unità Ottiene 1 [ChargeForceField] il prossimo turno per ogni Conteggio [Charge] Che eccede il limite massimo di Conteggio [Charge] (max 3, incluse Abilità E.G.O)"
     },
     {
       "id": 1051301,
