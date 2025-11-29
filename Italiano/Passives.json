@@ -2410,7 +2410,7 @@
     },
     {
       "id": 1071301,
-      "name": Carica Difesa-Orientata",
+      "name": "Carica Difesa-Orientata",
       "desc": "- Ottiene 1 [Charge] ogni volta che questa unità consuma 10 Conteggio cumulativi di [Charge] in questo
 Incontro\n- Inizio Turno: Ottiene [DefenseUp] uguale alla Potenza [Charge] Posseduta (max 6)"
     },
